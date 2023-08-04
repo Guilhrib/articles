@@ -1,2 +1,2 @@
-# articles
-All examples used in my articles
+# Articles
+All examples used in my articles and content
